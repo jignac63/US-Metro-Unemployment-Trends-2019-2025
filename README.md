@@ -25,6 +25,9 @@ This project analyzes metro-level unemployment rates across U.S. regions from 20
 📥 **Download Full Dashboard (PDF)**  
 https://github.com/jignac63/US-Metro-Unemployment-Trends-2019-2025/blob/main/Week_2_Unemployment%20%20Analysis.pdf
 
+<img width="1057" height="585" alt="image" src="https://github.com/user-attachments/assets/b4fff6fd-3668-48bd-b67d-4c4389f22445" />
+
+
 
 
 ---
